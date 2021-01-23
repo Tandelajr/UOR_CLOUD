@@ -6,3 +6,4 @@ O mesmo mira abordar de forma geral, apresentando algumas possibilidades de para
 É usada uma Base de Dados e Modelo de Arquitectura Cliente/Servidor de formas a proporcionar a Universidade para a implementação da aplicação, a administração  e o controlo centralizado dos dados relativos aos estudantes, com ajuda do MySQL, PHP, HTML, que é um Sistema de Gestão de Base de Dados da ORACLE indispensável para um organismo que pretenda possuir dados actualizados, seguros e que pretenda fazer uma gestão organizada e correcta da Informação.
 
 https://github.com/Tandelajr/UOR_CLOUD/issues/1
+<img src=”https://github.com/Tandelajr/UOR_CLOUD/issues/1”>
