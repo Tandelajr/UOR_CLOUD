@@ -9,10 +9,13 @@ O mesmo mira abordar de forma geral, apresentando algumas possibilidades de para
 
 
 Este projecto, no âmbito do estágio de licenciatura, deu-se a oportunidade de trabalhar com uma das tecnologias mais recentes no desenvolvimento de sistema de informação. Estas tecnologias têm vindo constantemente a evoluir ao longo dos últimos anos, obrigando também à constante adaptação das ferramentas e métodos de forma a poder satisfazer as necessidades dos clientes e do negócio. 
-Todos os objectivos propostos foram atingidos plenamente.:
+Todos os objectivos propostos foram atingidos plenamente.
+
 •	Analisou-se, desenhou-se e implementou-se uma base de dados que armazena toda informação dos usuários (alunos e docentes)
+
 •	Criou-se uma interface simples e responsiva para os usuários do aplicativo. Garantindo a integridade e consistência da informação armazenada na base de dados para gestão
 Garantir o acesso diferenciado e restrito do sistema, tendo em conta a confidencialidade e segurança que requer a informação dos dados armazenados.
+
 
 ![DashBoard](https://user-images.githubusercontent.com/67243528/105574632-1aa4fe00-5d66-11eb-815c-6483a2b2e03c.png)
 
